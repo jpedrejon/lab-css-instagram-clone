@@ -1,0 +1,57 @@
+/*
+Colors to use:
+dark blue: #06365f
+light blue: #1c5380
+*/
+
+body {
+  font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
+}
+
+.p {
+  color:  #06365f;
+}
+
+.upperBody {
+  background-color: #06365f;
+  height: 200px;
+  width: auto;
+  border-color: #00D1AE;
+
+}
+
+.downBody {
+    height: 300px;
+    margin-top: 200px;
+}
+section {
+  position: fixed;
+  top: 100px;
+  padding: 0% 10%;
+}
+.iphone {
+  bottom: 200;
+  float: left;
+}
+
+.instagram {
+  margin-left: 40px;
+}
+
+.text {
+  background-image: url("../images/frame.png");
+  background-position: center;
+  background-size: 620px;
+  position: relative;
+  float:left;
+  width: 60%;
+  margin-left: 50px;
+}
+
+footer {
+  text-transform: uppercase;
+  margin-left: 30%;
+  bottom: 0px;
+  color:  #06365f;
+}
